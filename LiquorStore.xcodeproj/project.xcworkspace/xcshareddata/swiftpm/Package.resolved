@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "90135885ef506506620c4911cefb55a95ca2a9a2",
+        "version" : "7.5.0"
+      }
+    },
+    {
+      "identity" : "swiftui-pull-to-refresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-pull-to-refresh",
+      "state" : {
+        "revision" : "1852a4eb7e7a12a768c64b25b1bd905993ced4eb",
+        "version" : "1.1.9"
+      }
+    }
+  ],
+  "version" : 2
+}
